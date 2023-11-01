@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1698777896 "/Users/arthurjakobsson/Documents/10617/Project/report/NIPS 2016.tex" "NIPS 2016.pdf" "NIPS 2016" 1698777896
-  "/Users/arthurjakobsson/Documents/10617/Project/report/NIPS 2016.tex" 1698777895 14104 165891a7e06fc5dee8334ddbc3c36240 ""
+["pdflatex"] 1698800593 "/Users/arthurjakobsson/Documents/10617/Project/report/NIPS 2016.tex" "NIPS 2016.pdf" "NIPS 2016" 1698800593
+  "/Users/arthurjakobsson/Documents/10617/Project/report/NIPS 2016.tex" 1698800593 14120 d8f9674c2a761a9f164f3b623898705a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -104,9 +104,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1668621295 2826448 c697aba9087805b11091802bab8b2a38 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "NIPS 2016.aux" 1698777896 2980 b1c46e178552764ccf51cc79adc80827 "pdflatex"
-  "NIPS 2016.out" 1698777896 2066 a636751299060728a4cd5669a8b7ce4c "pdflatex"
-  "NIPS 2016.tex" 1698777895 14104 165891a7e06fc5dee8334ddbc3c36240 ""
+  "NIPS 2016.aux" 1698800593 2980 b1c46e178552764ccf51cc79adc80827 "pdflatex"
+  "NIPS 2016.out" 1698800593 2066 a636751299060728a4cd5669a8b7ce4c "pdflatex"
+  "NIPS 2016.tex" 1698800593 14120 d8f9674c2a761a9f164f3b623898705a ""
   "nips_2016.sty" 1698776613 10198 de065bfc3498f79fc876aa607c8cbc8b ""
   (generated)
   "NIPS 2016.aux"
