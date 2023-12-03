@@ -2,3 +2,4 @@ data/*
 images/*
 oldData/*
 AllData.npy
+cifar-100-python/*
